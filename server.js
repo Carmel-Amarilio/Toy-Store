@@ -13,6 +13,8 @@ const corsOptions = {
         'http://localhost:8080',
         'http://127.0.0.1:5173',
         'http://localhost:5173',
+        'http://127.0.0.1:5174',
+        'http://localhost:5174',
     ],
     credentials: true
 }
@@ -107,7 +109,8 @@ app.delete('/api/toy/:toyId', (req, res) => {
 })
 
 
-const port = 3030
+// const port = 3030
+const port = process.env.PORT || 3030
 app.listen(port, () => {
     loggerService.info(`Server listening on port http://127.0.0.1:${port}/`)
 })
