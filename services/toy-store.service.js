@@ -10,14 +10,14 @@ export const toyStoreService = {
     save
 }
 
-function query(filterBy = {}) {
+function query({txt = '', labels = []}) {
     let toysToDisplay = toys
-    if (filterBy.txt) {
-        const regExp = new RegExp(filterBy.txt, 'i')
+    if (txt) {
+        const regExp = new RegExp(txt, 'i')
         toysToDisplay = toysToDisplay.filter(toy => regExp.test(toy.name))
     }
-    if (filterBy.label) {
-        toysToDisplay = toysToDisplay.filter(toy => toy.labels.includes(filterBy.label))
+    if (labels.length > 0) {
+        toysToDisplay = toysToDisplay.filter(toy => utilService.checkForAllDuplicates(labels, toy.labels))
     }
 
 
@@ -50,7 +50,7 @@ function save(toyToEdit) {
         toyToEdit._id = _makeId()
         toys.push(toyToEdit)
     }
-    
+
     return _saveToysToFile().then(() => toyToEdit)
     // return Promise.resolve(toy)
 }

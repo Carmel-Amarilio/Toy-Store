@@ -4,18 +4,6 @@
         "price": 123,
         "labels": [
             "Doll",
-            "Battery Powered",
-            "Baby"
-        ],
-        "createdAt": 1695367546179,
-        "inStock": false,
-        "_id": "wUXVc"
-    },
-    {
-        "name": "Talking Doll",
-        "price": 123,
-        "labels": [
-            "Doll",
             "Art",
             "Box game",
             "Puzzle"
@@ -45,7 +33,7 @@
             "Baby"
         ],
         "createdAt": 1695367546183,
-        "inStock": true,
+        "inStock": false,
         "_id": "ErPkO"
     },
     {
@@ -256,5 +244,13 @@
         "createdAt": 1695367595609,
         "inStock": true,
         "_id": "6Ja8A"
+    },
+    {
+        "name": "",
+        "price": 0,
+        "labels": [],
+        "createdAt": 1695751852783,
+        "inStock": false,
+        "_id": "D8N81"
     }
 ]
