@@ -44,3 +44,195 @@
 28.9.2023, 17:45:36 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
 28.9.2023, 17:45:36 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
 28.9.2023, 17:45:36 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:47:10 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:47:10 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:47:11 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:48:17 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:48:17 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:48:18 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:48:27 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:48:27 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:48:27 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:50:38 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:50:42 - DEBUG - Getting Toysss | {"txt":"","labels":[]} 
+28.9.2023, 17:50:42 - DEBUG - Getting Toysss | {"txt":"","labels":[]} 
+28.9.2023, 17:50:42 - DEBUG - Getting Toysss | {"txt":"","labels":[]} 
+28.9.2023, 17:51:57 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:52:02 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:52:02 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:52:02 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 17:52:05 - DEBUG - Getting toy | {"name":"","price":"","inStock":false,"labels":[],"createdAt":1695912725888} 
+28.9.2023, 17:53:53 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:53:58 - DEBUG - Getting toy | {"_id":"65158bd190140d47406ad570","name":"alon am","price":319,"inStock":false,"labels":[],"createdAt":1695912838138} 
+28.9.2023, 17:53:58 - ERROR - cannot update toy 65158bd190140d47406ad570 | ReferenceError: toy is not defined 
+28.9.2023, 17:53:58 - ERROR - Failed to update toy | ReferenceError: toy is not defined 
+28.9.2023, 17:55:20 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:56:14 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:56:26 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:57:06 - DEBUG - Getting toy | {"_id":"65158bd190140d47406ad570","name":"alon amr","price":319,"inStock":true,"labels":[],"createdAt":1695913026181} 
+28.9.2023, 17:57:06 - ERROR - cannot update toy 65158bd190140d47406ad570 | ReferenceError: toy is not defined 
+28.9.2023, 17:57:06 - ERROR - Failed to update toy | ReferenceError: toy is not defined 
+28.9.2023, 17:57:14 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:57:21 - DEBUG - Getting toy | {"_id":"65158bd190140d47406ad570","name":"alon amri","price":319,"inStock":true,"labels":[],"createdAt":1695913041120} 
+28.9.2023, 17:58:44 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 17:59:11 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:03:10 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:03:25 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:03:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:03:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:03:32 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:03:39 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:19:59 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:19:59 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:19:59 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:08 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:20:19 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:20:29 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:29 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:30 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:32 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:33 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:33 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:33 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:35 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:35 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:20:35 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:21:23 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:21:30 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:21:52 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:21:53 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:21:54 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:21:54 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:03 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:03 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:03 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:06 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:06 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:06 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:12 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:12 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:13 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:14 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:19 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:20 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:31 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:33 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:34 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:35 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:37 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:40 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:41 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:41 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:42 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:22:43 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:25:20 - DEBUG - Getting Toys | {"txt":"ca","labels":[]} 
+28.9.2023, 18:25:25 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:25:28 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:25:29 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Box game"]} 
+28.9.2023, 18:25:32 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Box game","Baby"]} 
+28.9.2023, 18:25:40 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Box game","Baby"]} 
+28.9.2023, 18:25:40 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Box game","Baby"]} 
+28.9.2023, 18:25:40 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:25:41 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:29:18 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:29:24 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Baby"]} 
+28.9.2023, 18:29:24 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:24 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:25 - DEBUG - Getting Toys | {"txt":"","labels":["Baby"]} 
+28.9.2023, 18:29:25 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:25 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:26 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:29:26 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:26 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:27 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"]} 
+28.9.2023, 18:29:27 - ERROR - cannot find toys | MongoError: $regex has to be a string 
+28.9.2023, 18:29:27 - ERROR - Failed to get toys | MongoError: $regex has to be a string 
+28.9.2023, 18:35:28 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:35:32 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Doll"]} 
+28.9.2023, 18:35:33 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Doll","Art"]} 
+28.9.2023, 18:35:37 - DEBUG - Getting Toys | {"txt":"","labels":["Doll","Art"]} 
+28.9.2023, 18:35:38 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:35:39 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:35:42 - DEBUG - Getting Toys | {"txt":"","labels":["Box game"]} 
+28.9.2023, 18:35:43 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Art"]} 
+28.9.2023, 18:35:44 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Art","Baby"]} 
+28.9.2023, 18:35:53 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Art","Baby","Doll"]} 
+28.9.2023, 18:35:54 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Art","Doll"]} 
+28.9.2023, 18:35:54 - DEBUG - Getting Toys | {"txt":"","labels":["Box game","Doll"]} 
+28.9.2023, 18:35:55 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:35:57 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:26 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:36:34 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:34 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:35 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:40 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:36:41 - DEBUG - Getting Toys | {"txt":"","labels":["On wheels"]} 
+28.9.2023, 18:36:42 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:43 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:36:44 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:50 - DEBUG - Getting Toys | {"txt":"","labels":["On wheels"]} 
+28.9.2023, 18:36:51 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:36:52 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:36:53 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Baby"]} 
+28.9.2023, 18:36:54 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Baby","Doll"]} 
+28.9.2023, 18:36:55 - DEBUG - Getting Toys | {"txt":"","labels":["Baby","Doll"]} 
+28.9.2023, 18:36:56 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:36:59 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:37:00 - DEBUG - Getting Toys | {"txt":"","labels":["Baby"]} 
+28.9.2023, 18:37:05 - DEBUG - Getting Toys | {"txt":"","labels":["Baby"]} 
+28.9.2023, 18:37:05 - DEBUG - Getting Toys | {"txt":"","labels":["Baby"]} 
+28.9.2023, 18:37:05 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:37:06 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:37:08 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Doll"]} 
+28.9.2023, 18:37:09 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:37:17 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:37:17 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:37:18 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:37:19 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:37:24 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:37:24 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:37:24 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:37:25 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:37:27 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Box game"]} 
+28.9.2023, 18:37:28 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:37:30 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Doll"]} 
+28.9.2023, 18:37:32 - DEBUG - Getting Toys | {"txt":"","labels":["Doll"]} 
+28.9.2023, 18:37:33 - DEBUG - Getting Toys | {"txt":"","labels":["Doll","Art"]} 
+28.9.2023, 18:37:34 - DEBUG - Getting Toys | {"txt":"","labels":["Doll","Art","Baby"]} 
+28.9.2023, 18:37:36 - DEBUG - Getting Toys | {"txt":"","labels":["Doll","Art","Baby","Outdoor"]} 
+28.9.2023, 18:37:38 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Baby","Outdoor"]} 
+28.9.2023, 18:37:38 - DEBUG - Getting Toys | {"txt":"","labels":["Art","Outdoor"]} 
+28.9.2023, 18:37:39 - DEBUG - Getting Toys | {"txt":"","labels":["Outdoor"]} 
+28.9.2023, 18:37:40 - DEBUG - Getting Toys | {"txt":"","labels":[]} 
+28.9.2023, 18:38:23 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:40:54 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:40:59 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:41:04 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:04 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:04 - ERROR - cannot find toys | MongoError: $all needs an array 
+28.9.2023, 18:41:04 - ERROR - Failed to get toys | MongoError: $all needs an array 
+28.9.2023, 18:41:04 - ERROR - cannot find toys | MongoError: $all needs an array 
+28.9.2023, 18:41:04 - ERROR - Failed to get toys | MongoError: $all needs an array 
+28.9.2023, 18:41:05 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:05 - ERROR - cannot find toys | MongoError: $all needs an array 
+28.9.2023, 18:41:05 - ERROR - Failed to get toys | MongoError: $all needs an array 
+28.9.2023, 18:41:07 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:41:08 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:08 - ERROR - Failed to get toys | MongoError: $all needs an array 
+28.9.2023, 18:41:08 - ERROR - cannot find toys | MongoError: $all needs an array 
+28.9.2023, 18:41:31 - INFO - Server listening on port http://127.0.0.1:3030/ 
+28.9.2023, 18:41:34 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:34 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:34 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:36 - DEBUG - Getting Toys | {"txt":"","labels":["Art"]} 
+28.9.2023, 18:41:38 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:39 - DEBUG - Getting Toys | {"txt":"","labels":["Baby"]} 
+28.9.2023, 18:41:40 - DEBUG - Getting Toys | {"txt":"","labels":["Baby","Art"]} 
+28.9.2023, 18:41:43 - DEBUG - Getting Toys | {"txt":"","labels":["Baby","Art"]} 
+28.9.2023, 18:41:43 - DEBUG - Getting Toys | {"txt":"","labels":["Baby","Art"]} 
+28.9.2023, 18:41:44 - DEBUG - Getting Toys | {"txt":""} 
+28.9.2023, 18:41:57 - INFO - Server listening on port http://127.0.0.1:3030/ 

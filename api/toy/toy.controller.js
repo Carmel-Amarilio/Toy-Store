@@ -5,9 +5,9 @@ export async function getToys(req, res) {
     try {
         const filterBy = {
             txt: req.query.txt || '',
-            labels: req.query.labels || [],
+            labels: req.query.labels ,
         }
-        // logger.debug('Getting Toyssss', filterBy)
+        logger.debug('Getting Toys', filterBy)
         const toys = await toyService.query(filterBy)
         res.json(toys)
     } catch (err) {
@@ -41,7 +41,6 @@ export async function addToy(req, res) {
 export async function updateToy(req, res) {
     try {
         const toy = req.body
-        logger.debug('Getting toy', toy)
         const updatedToy = await toyService.update(toy)
         res.json(updatedToy)
     } catch (err) {

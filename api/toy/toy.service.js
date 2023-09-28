@@ -5,12 +5,12 @@ import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
-async function query({ txt = '', labels = [] }) {
+async function query({ txt, labels }) {
     try {
         const criteria = {
             name: { $regex: txt, $options: 'i' },
-            // labels: { $regex: labels, $options: 'i' }
         }
+        if (labels) criteria.labels = { $all: labels }
         const collection = await dbService.getCollection('toy')
         var toys = await collection.find(criteria).toArray()
         return toys
@@ -60,10 +60,9 @@ async function update({ name, price, _id, inStock, labels }) {
             inStock,
             labels
         }
-        console.log(toyToSave);
         const collection = await dbService.getCollection('toy')
         await collection.updateOne({ _id: ObjectId(_id) }, { $set: toyToSave })
-        return toy
+        return toyToSave
     } catch (err) {
         logger.error(`cannot update toy ${_id}`, err)
         throw err
