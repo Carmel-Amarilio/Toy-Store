@@ -4,49 +4,11 @@
         "price": 123,
         "labels": [
             "Doll",
-            "Art",
-            "Box game",
-            "Puzzle"
-        ],
-        "createdAt": 1695367546180,
-        "inStock": true,
-        "_id": "YIp6p"
-    },
-    {
-        "name": "Talking Doll",
-        "price": 123,
-        "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
-        ],
-        "createdAt": 1695367546181,
-        "inStock": true,
-        "_id": "VzmvU"
-    },
-    {
-        "name": "Talking Doll",
-        "price": 123,
-        "labels": [
-            "Doll",
             "Battery Powered",
             "Baby"
         ],
         "createdAt": 1695367546183,
-        "inStock": false,
-        "_id": "ErPkO"
-    },
-    {
-        "name": "Talking Doll",
-        "price": 123,
-        "labels": [
-            "Doll",
-            "Battery Powered",
-            "Baby"
-        ],
-        "createdAt": 1695367546189,
-        "inStock": true,
-        "_id": "cF6g0"
+        "inStock": false
     },
     {
         "name": "Talking Doll",
@@ -62,8 +24,7 @@
             "Outdoor"
         ],
         "createdAt": 1695367546191,
-        "inStock": true,
-        "_id": "Yf08E"
+        "inStock": true
     },
     {
         "name": "Talking Doll",
@@ -244,13 +205,5 @@
         "createdAt": 1695367595609,
         "inStock": true,
         "_id": "6Ja8A"
-    },
-    {
-        "name": "",
-        "price": 0,
-        "labels": [],
-        "createdAt": 1695751852783,
-        "inStock": false,
-        "_id": "D8N81"
     }
 ]
