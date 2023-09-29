@@ -5,6 +5,17 @@ import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
+
+export const toyService = {
+    remove,
+    query,
+    getById,
+    add,
+    update,
+    addToyRev,
+    removeToyReview
+}
+
 async function query({ txt, labels }) {
     try {
         const criteria = {
@@ -52,14 +63,9 @@ async function add(toy) {
     }
 }
 
-async function update({ name, price, _id, inStock, labels }) {
+async function update({ name, price, _id, inStock, labels, reviews }) {
     try {
-        const toyToSave = {
-            name,
-            price,
-            inStock,
-            labels
-        }
+        const toyToSave = { name, price, inStock, labels, reviews }
         const collection = await dbService.getCollection('toy')
         await collection.updateOne({ _id: ObjectId(_id) }, { $set: toyToSave })
         return toyToSave
@@ -69,10 +75,25 @@ async function update({ name, price, _id, inStock, labels }) {
     }
 }
 
-export const toyService = {
-    remove,
-    query,
-    getById,
-    add,
-    update,
+async function addToyRev(toyId, review) {
+    try {
+        review.id = utilService.makeId()
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne({ _id: ObjectId(toyId) }, { $push: { reviews: review } })
+        return review
+    } catch (err) {
+        logger.error(`cannot add toy msg ${toyId}`, err)
+        throw err
+    }
+}
+
+async function removeToyReview(toyId, reviewId) {
+    try {
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne({ _id: ObjectId(toyId) }, { $pull: { reviews: {id: reviewId} } })
+        return reviewId
+    } catch (err) {
+        logger.error(`cannot add toy msg ${toyId}`, err)
+        throw err
+    }
 }

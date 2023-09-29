@@ -1,6 +1,6 @@
 import express from 'express'
-// import { requireAuth, requireAdmin } from '../../middlewares/requireAuth.middleware.js'
-import { addToy, getToyById, getToys, removeToy, updateToy } from './toy.controller.js'
+import { addToy, addToyRev, getToyById, getToys, removeToy, removeToyRev, updateToy } from './toy.controller.js'
+import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
 
 export const toyRoutes = express.Router()
 
@@ -8,11 +8,11 @@ export const toyRoutes = express.Router()
 // router.use(requireAuth)
 toyRoutes.get('/',  getToys)
 toyRoutes.get('/:id', getToyById)
-toyRoutes.post('/', addToy)
-toyRoutes.put('/', updateToy)
-toyRoutes.delete('/:id', removeToy)
+toyRoutes.post('/',requireAuth, addToy)
+toyRoutes.put('/',requireAuth, updateToy)
+toyRoutes.delete('/:id', requireAuth,removeToy)
 
 // // router.delete('/:id', requireAuth, requireAdmin, removeToy)
 
-// toyRoutes.post('/:id/msg', requireAuth, addToyMsg)
-// toyRoutes.delete('/:id/msg/:msgId', requireAuth, removeToyMsg)
+toyRoutes.post('/:id/review', requireAuth, addToyRev)
+toyRoutes.delete('/:id/review/:reviewId', requireAuth, removeToyRev)
