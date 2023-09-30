@@ -33,12 +33,12 @@ async function signup(userName, password, fullName) {
     if (!userName || !password || !fullName) throw new Error('Missing details')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ userName, password: hash, fullName })
+    return userService.add({ userName, password: hash, fullName, cart:[] })
 }
 
 function getLoginToken(user) {
-    const {_id, fullName,isAdmin,userName} = user
-    const userInfo = {_id, fullName,isAdmin,userName }
+    const {_id, fullName,isAdmin,userName,cart} = user
+    const userInfo = {_id, fullName,isAdmin,userName,cart }
     return cryptr.encrypt(JSON.stringify(userInfo))
 }
 

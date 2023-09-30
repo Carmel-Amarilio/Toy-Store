@@ -6,6 +6,7 @@ import { logger } from './services/logger.service.js';
 import { toyRoutes } from './api/toy/toy.routes.js';
 import { authRoutes } from './api/auth/auth.routes.js';
 import cookieParser from 'cookie-parser';
+import { cartRoutes } from './api/cart/cart.routes.js';
 
 const app = express()
 
@@ -30,6 +31,7 @@ app.use(express.static('public'))
 // routes
 app.use('/api/toy', toyRoutes)
 app.use('/api/auth', authRoutes)
+app.use('/api/cart', cartRoutes)
 
 // const port = 3030
 const port = process.env.PORT || 3030

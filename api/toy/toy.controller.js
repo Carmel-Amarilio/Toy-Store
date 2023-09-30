@@ -62,6 +62,7 @@ export async function removeToy(req, res) {
 
 export async function addToyRev(req, res) {
     const { loggedinUser } = req
+    console.log(loggedinUser);
     try {
         const toyId = req.params.id
         const {txt,at,rating} = req.body
