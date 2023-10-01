@@ -17,7 +17,7 @@ async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
         const collection = await dbService.getCollection('user')
-        var users = await collection.find(criteria).sort({nickname: -1}).toArray()
+        var users = await collection.find(criteria).sort({ nickname: -1 }).toArray()
         users = users.map(user => {
             delete user.password
             user.createdAt = ObjectId(user._id).getTimestamp()
@@ -94,6 +94,7 @@ async function add(user) {
             password: user.password,
             fullName: user.fullName,
             cart: user.cart,
+            
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

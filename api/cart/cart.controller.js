@@ -4,6 +4,7 @@ import { cartService } from "./cart.service.js"
 
 export async function getToysInCart(req, res) {
     const { loggedinUser } = req
+    
     try {
         const toys = await cartService.query(loggedinUser)
         res.json(toys)
@@ -30,7 +31,8 @@ export async function addToyToCart(req, res) {
     try {
         const toy = req.body
         const user = await cartService.add(loggedinUser, toy)
-        const loginToken = authService.getLoginToken(user)
+        const loginToken = authService.getLoginToken({...user, cart:[]})
+        console.log(user);
         res.cookie('loginToken', loginToken)
         res.json(toy)
     } catch (err) {

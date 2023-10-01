@@ -1,0 +1,513 @@
+30.9.2023, 23:18:54 - DEBUG - Getting Toys | {"txt":""} 
+30.9.2023, 23:18:54 - DEBUG - Getting Toys | {"txt":""} 
+30.9.2023, 23:18:54 - DEBUG - Getting Toys | {"txt":""} 
+30.9.2023, 23:35:13 - DEBUG - Getting Toys | {"txt":""} 
+30.9.2023, 23:35:14 - DEBUG - Getting Toys | {"txt":""} 
+30.9.2023, 23:35:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 8:30:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 8:30:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 8:30:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 14:46:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 14:46:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 14:46:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 14:53:47 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 14:53:47 - INFO - User login:  | {"_id":"6517c91806d0ad2478e2bcd1","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"6516ddf73160ba60a40da69e","name":"Talking Doll","price":123,"labels":["Doll","Battery Powered","Baby"],"createdAt":1695997431761,"inStock":true,"reviews":[{"txt":"“because im the devil who’s searching for redemption” is probably one of the best lines","rating":2,"at":1696006312202,"by":{"_id":"6516898fefb39746c4278d45","fullName":"carmel","userName":"carmel"},"id":"Ogrw7"},{"txt":"Funny Text","rating":4,"at":1696006585627,"by":{"_id":"65168a52efb39746c4278d46","fullName":"alon","userName":"alon"},"id":"1dO3t"},{"txt":"Funny Text","rating":2,"at":1696057945800,"by":{"_id":"6517c91806d0ad2478e2bcd1","fullName":"carmel amarilio","userName":"carmel","cart":[]},"id":"dRiyJ"}],"msgs":[],"quantity":2},{"_id":"6516ddf83160ba60a40da69f","name":"Talking Doll","price":123,"labels":["Doll","Battery Powered","Baby"],"createdAt":1695997431763,"inStock":true,"reviews":[],"quantity":1}]} 
+1.10.2023, 14:53:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 14:53:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 14:53:50 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:17:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:17:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:17:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:18:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:18:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:18:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:18:52 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:18:52 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:18:52 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:31:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:31:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:31:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:31:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:31:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:31:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:37:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:37:59 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:42:40 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:42:40 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:42:40 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:43:01 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:43:01 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:43:01 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:56:50 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:56:50 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:56:50 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:09 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:09 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:10 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:13 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:13 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:13 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:57:59 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:58:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:58:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:58:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:58:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 15:58:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:21:59 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:21:59 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:21:59 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:22:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:22:18 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:22:18 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:23:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:23:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:23:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:30:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:30:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:30:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:31:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:31:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:31:43 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:32:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:32:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:32:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:13 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:33:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:34:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:34:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:34:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:52:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:53:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:54:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:54:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:54:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 16:55:44 - DEBUG - Getting Toys | {"txt":"","labels":["Battery Powered"]} 
+1.10.2023, 16:58:15 - DEBUG - Getting Toys | {"txt":"","labels":["Battery Powered","On wheels"]} 
+1.10.2023, 17:01:36 - DEBUG - Getting Toys | {"txt":"","labels":["Battery Powered","On wheels"]} 
+1.10.2023, 17:01:45 - DEBUG - Getting Toys | {"txt":"","labels":["On wheels"]} 
+1.10.2023, 17:01:46 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:03:25 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:03:50 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:05:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:07:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:09:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:09:40 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:10:24 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:11:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:11:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:11:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:12:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:12:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:12:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:12:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:12:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:10 - DEBUG - auth.service - signup with userName: alon, fullName: alon 
+1.10.2023, 17:13:10 - DEBUG - auth.route - new account created: {"userName":"alon","password":"$2b$10$MW.tY.tzFmcosmBuD.tKSO.XlfegO8j3bRKdCWoyY0lyB79wzCfcG","fullName":"alon","cart":[],"_id":"65197e7688bcbc6c14581106"} 
+1.10.2023, 17:13:10 - DEBUG - auth.service - login with userName: alon 
+1.10.2023, 17:13:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:42 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 17:13:43 - INFO - User login:  | {"_id":"6517c91806d0ad2478e2bcd1","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"6516ddf73160ba60a40da69e","name":"Talking Doll","price":123,"labels":["Doll","Battery Powered","Baby"],"createdAt":1695997431761,"inStock":true,"reviews":[{"txt":"“because im the devil who’s searching for redemption” is probably one of the best lines","rating":2,"at":1696006312202,"by":{"_id":"6516898fefb39746c4278d45","fullName":"carmel","userName":"carmel"},"id":"Ogrw7"},{"txt":"Funny Text","rating":4,"at":1696006585627,"by":{"_id":"65168a52efb39746c4278d46","fullName":"alon","userName":"alon"},"id":"1dO3t"},{"txt":"Funny Text","rating":2,"at":1696057945800,"by":{"_id":"6517c91806d0ad2478e2bcd1","fullName":"carmel amarilio","userName":"carmel","cart":[]},"id":"dRiyJ"}],"msgs":[],"quantity":2},{"_id":"6516ddf83160ba60a40da69f","name":"Talking Doll","price":123,"labels":["Doll","Battery Powered","Baby"],"createdAt":1695997431763,"inStock":true,"reviews":[],"quantity":2},{"_id":"65196ce488bcbc6c145810df","name":"carmel","price":129,"inStock":true,"imgUrl":"http://res.cloudinary.com/du1jrse2t/image/upload/v1696165090/iuc4yypxtfwtlvolbpck.jpg","labels":["Baby","Battery Powered"],"reviews":[],"createdAt":1696165092245,"owner":"6517c91806d0ad2478e2bcd1","img":"","quantity":1}]} 
+1.10.2023, 17:13:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:13:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:30 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:30 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:30 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:14:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:15:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:15:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:15:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:17:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:17:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:17:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:17:43 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:38:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:38:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:38:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:39:05 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:39:05 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:39:05 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:43:01 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 17:43:12 - DEBUG - auth.service - signup with userName: carmel, fullName: carmel amarilio 
+1.10.2023, 17:43:12 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 17:43:12 - DEBUG - auth.route - new account created: {"userName":"carmel","password":"$2b$10$8ZOwTBY6tvF8MjM63cTR5eZs9ajg9DYA0Bla5Ssv81C/xjnFNbBhK","fullName":"carmel amarilio","cart":[],"_id":"65198580cbcb327898332808"} 
+1.10.2023, 17:43:55 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 17:44:15 - DEBUG - auth.service - signup with userName: carmel, fullName: carmel amarilio 
+1.10.2023, 17:44:15 - DEBUG - auth.route - new account created: {"userName":"carmel","password":"$2b$10$jzcZ4X73j113w3lce/QTquIEaARzi/0jM2M9jGdOGXV3uwtMhBnpq","fullName":"carmel amarilio","cart":[],"isAdmin":true,"_id":"651985bf4e67311c3cb01688"} 
+1.10.2023, 17:44:15 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 17:44:44 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 17:44:45 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 17:48:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:18 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:30 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:30 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:34 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:34 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:48:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:58:51 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 17:58:51 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[],"isAdmin":true} 
+1.10.2023, 17:59:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:59:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:59:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:59:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:59:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 17:59:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:00:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:00:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:00:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:00:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:00:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:00:42 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:04:17 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 18:04:17 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 18:33:59 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 18:34:21 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 18:34:46 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 18:34:46 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 18:35:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:35:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:35:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:35:16 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 18:35:16 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 18:36:16 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 18:36:17 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 18:37:17 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 18:37:18 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 18:37:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:36 - DEBUG - auth.service - login with userName: alon 
+1.10.2023, 18:37:36 - INFO - User login:  | {"_id":"65197e7688bcbc6c14581106","userName":"alon","fullName":"alon","cart":[]} 
+1.10.2023, 18:37:38 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:38 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:38 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 18:37:46 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:28:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:29:59 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:09 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:09 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:09 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:18 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 20:30:18 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 20:30:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:32 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:33 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:33 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:30:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:01 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:01 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:21 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:31:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:33:32 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:33:32 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:33:32 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:33:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:33:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:33:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:34:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:34:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:34:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:34:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:34:16 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:34:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:31 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:34 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:34 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:36:34 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:39:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:39:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:39:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:39:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:39:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:39:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:28 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:28 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:28 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:46 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:46 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:46 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:51 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:51 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:51 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:40:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:44:53 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:44:53 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:44:53 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:45:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:45:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:45:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:48:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:48:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:48:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:49:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:49:06 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:49:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:54:58 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 20:55:05 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:05 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:05 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:23 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 20:55:23 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[],"isAdmin":true} 
+1.10.2023, 20:55:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:29 - ERROR - Failed to add toy | TypeError: Cannot read properties of undefined (reading 'find') 
+1.10.2023, 20:55:29 - ERROR - Failed to add toy | TypeError: Cannot read properties of undefined (reading 'find') 
+1.10.2023, 20:55:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:55:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:56:12 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 20:59:39 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:59:39 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:59:39 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:59:40 - ERROR - Failed to add toy | TypeError: Cannot read properties of undefined (reading 'find') 
+1.10.2023, 20:59:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:59:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:59:56 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 20:59:58 - ERROR - Failed to add toy | TypeError: Cannot read properties of undefined (reading 'find') 
+1.10.2023, 21:01:15 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 21:01:15 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[],"isAdmin":true} 
+1.10.2023, 21:01:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:01:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:01:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:11 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:11 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:33 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:33 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:33 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:02:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:00 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:04 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:12 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:18 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:18 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:19 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:25 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:25 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:03:26 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:04:52 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:05:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:38 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:05:50 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:05:54 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:54 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:54 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:05:57 - ERROR - Failed to add toy | TypeError: Cannot read properties of null (reading 'find') 
+1.10.2023, 21:06:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:06:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:06:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:06:30 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 21:06:30 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581104","name":"Toy Story train","price":99.99,"labels":["Box game","Battery Powered","On wheels"],"createdAt":1696169556637,"inStock":true,"reviews":[{"txt":"The quality of these toys is top-notch. They really stand the test of time","rating":5,"at":1696181333119,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"nCb1m"},{"txt":"I appreciate that they carry eco-friendly and sustainable toy options.","rating":4,"at":1696181453429,"by":{"_id":"651985bf4e67311c3cb01688","fullName":"carmel amarilio","isAdmin":true,"userName":"carmel","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}]},"id":"rf67J"}],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168573/images_vixjoq.jpg","quantity":1},{"_id":"65197e5488bcbc6c14581103","name":"Toy Story Puzzle","price":65.5,"labels":["Art","Puzzle","Baby","Box game"],"createdAt":1696169556636,"inStock":true,"reviews":[{"txt":"The variety of toys here is incredible. There's something for every child's interest.","rating":4,"at":1696181315166,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"e31Ck"},{"txt":"I love that they have educational toys that make learning fun","rating":4,"at":1696181380244,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"d3eJ1"},{"txt":"The prices are reasonable, and they often have great sales.","rating":4,"at":1696181441251,"by":{"_id":"651985bf4e67311c3cb01688","fullName":"carmel amarilio","isAdmin":true,"userName":"carmel","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}]},"id":"dUWAj"}],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696167941/download_v3uf1l.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 21:06:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:06:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:06:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:07:09 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:07:15 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:07:15 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:07:15 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:07:21 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 21:07:21 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581104","name":"Toy Story train","price":99.99,"labels":["Box game","Battery Powered","On wheels"],"createdAt":1696169556637,"inStock":true,"reviews":[{"txt":"The quality of these toys is top-notch. They really stand the test of time","rating":5,"at":1696181333119,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"nCb1m"},{"txt":"I appreciate that they carry eco-friendly and sustainable toy options.","rating":4,"at":1696181453429,"by":{"_id":"651985bf4e67311c3cb01688","fullName":"carmel amarilio","isAdmin":true,"userName":"carmel","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}]},"id":"rf67J"}],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168573/images_vixjoq.jpg","quantity":1},{"_id":"65197e5488bcbc6c14581103","name":"Toy Story Puzzle","price":65.5,"labels":["Art","Puzzle","Baby","Box game"],"createdAt":1696169556636,"inStock":true,"reviews":[{"txt":"The variety of toys here is incredible. There's something for every child's interest.","rating":4,"at":1696181315166,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"e31Ck"},{"txt":"I love that they have educational toys that make learning fun","rating":4,"at":1696181380244,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"d3eJ1"},{"txt":"The prices are reasonable, and they often have great sales.","rating":4,"at":1696181441251,"by":{"_id":"651985bf4e67311c3cb01688","fullName":"carmel amarilio","isAdmin":true,"userName":"carmel","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}]},"id":"dUWAj"}],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696167941/download_v3uf1l.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 21:08:44 - DEBUG - auth.service - signup with userName: am, fullName: ca 
+1.10.2023, 21:08:44 - DEBUG - auth.route - new account created: {"userName":"am","password":"$2b$10$MTAKSoXcPv8OqewgMOjzNu7C7AvO6oFZs33j/Yfo4BGrmlidiXZXu","fullName":"ca","cart":[],"_id":"6519b5ace3e7107b1c233f72"} 
+1.10.2023, 21:08:44 - DEBUG - auth.service - login with userName: am 
+1.10.2023, 21:09:09 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 21:09:10 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[{"_id":"65197e5588bcbc6c14581104","name":"Toy Story train","price":99.99,"labels":["Box game","Battery Powered","On wheels"],"createdAt":1696169556637,"inStock":true,"reviews":[{"txt":"The quality of these toys is top-notch. They really stand the test of time","rating":5,"at":1696181333119,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"nCb1m"},{"txt":"I appreciate that they carry eco-friendly and sustainable toy options.","rating":4,"at":1696181453429,"by":{"_id":"651985bf4e67311c3cb01688","fullName":"carmel amarilio","isAdmin":true,"userName":"carmel","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}]},"id":"rf67J"}],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168573/images_vixjoq.jpg","quantity":1},{"_id":"65197e5488bcbc6c14581103","name":"Toy Story Puzzle","price":65.5,"labels":["Art","Puzzle","Baby","Box game"],"createdAt":1696169556636,"inStock":true,"reviews":[{"txt":"The variety of toys here is incredible. There's something for every child's interest.","rating":4,"at":1696181315166,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"e31Ck"},{"txt":"I love that they have educational toys that make learning fun","rating":4,"at":1696181380244,"by":{"_id":"65197e7688bcbc6c14581106","fullName":"alon","userName":"alon","cart":[{"_id":"65197e5488bcbc6c14581102","name":"Buzz Lightyear","price":40,"labels":["Doll","Battery Powered","Baby"],"createdAt":1696169556635,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696169364/images_ihchin.jpg","quantity":1}]},"id":"d3eJ1"},{"txt":"The prices are reasonable, and they often have great sales.","rating":4,"at":1696181441251,"by":{"_id":"651985bf4e67311c3cb01688","fullName":"carmel amarilio","isAdmin":true,"userName":"carmel","cart":[{"_id":"65197e5588bcbc6c14581105","name":"Toy Story Jeep","price":150,"labels":["Battery Powered","Outdoor","On wheels"],"createdAt":1696169556638,"inStock":true,"reviews":[],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696168729/download_oct2yk.jpg","quantity":1}]},"id":"dUWAj"}],"imgUrl":"https://res.cloudinary.com/du1jrse2t/image/upload/v1696167941/download_v3uf1l.jpg","quantity":1}],"isAdmin":true} 
+1.10.2023, 21:09:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:29 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:35 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:39 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:39 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:39 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:43 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:43 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:09:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:02 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:08 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:08 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:08 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:10:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:33 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:36 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:11:46 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:12:44 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:12:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:12:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:12:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:13:57 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:14:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:14:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:14:03 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:15:19 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:15:40 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:17:01 - DEBUG - auth.service - login with userName: carmel 
+1.10.2023, 21:17:01 - INFO - User login:  | {"_id":"651985bf4e67311c3cb01688","userName":"carmel","fullName":"carmel amarilio","cart":[],"isAdmin":true} 
+1.10.2023, 21:17:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:17:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:17:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:23 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:33 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:18:47 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:47 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:48 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:52 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:52 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:18:52 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:16 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:19:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:28 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:28 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:28 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:41 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:44 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:19:45 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:20:01 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:20:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:20:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:20:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:20:34 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:21:14 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:21:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:21:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:21:17 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:30:53 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 21:38:49 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:38:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:38:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:38:55 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:39:57 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:07 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:14 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:22 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:40:37 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 21:53:00 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 22:01:27 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 22:02:13 - INFO - Server listening on port http://127.0.0.1:3030/ 
+1.10.2023, 22:02:53 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 22:02:53 - DEBUG - Getting Toys | {"txt":""} 
+1.10.2023, 22:02:54 - DEBUG - Getting Toys | {"txt":""} 
