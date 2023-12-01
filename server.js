@@ -5,10 +5,10 @@ import cookieParser from 'cookie-parser';
 import { toyStoreService } from './services/toy-store.service.js'
 
 import { logger } from './services/logger.service.js';
+import { setupSocketAPI } from './services/socket.service.js';
 import { toyRoutes } from './api/toy/toy.routes.js';
 import { authRoutes } from './api/auth/auth.routes.js';
 import { cartRoutes } from './api/cart/cart.routes.js';
-import { setupSocketAPI } from './services/socket.service.js';
 
 
 const app = express()
@@ -25,8 +25,6 @@ const corsOptions = {
     ],
     credentials: true
 }
-
-
 
 app.use(cookieParser())
 app.use(cors(corsOptions))
